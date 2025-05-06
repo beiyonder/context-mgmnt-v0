@@ -1,5 +1,5 @@
 <!-- Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG -->
-![Long-Context LLMs Meet RAG](lclm_techinques.png)
+![Long-Context LLMs Meet RAG](lclm_techniques.png)
 *Bowen Jin, Jinsung Yoon, Jiawei Han, Sercan Ö. Arık. Google Cloud AI Research, University of Illinois at Urbana-Champaign*
 
 <!-- Hierarchical Summarization: Scaling Up Multi-Document Summarization -->
